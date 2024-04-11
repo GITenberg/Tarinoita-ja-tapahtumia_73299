@@ -1,0 +1,29 @@
+_repo: Tarinoita-ja-tapahtumia_73299
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kauppis-Heikki
+    alias: Kauppinen, Heikki
+    birthdate: 1862
+    deathdate: 1920
+    gutenberg_agent_id: '5651'
+    url: http://www.gutenberg.org/2009/agents/5651
+    wikipedia: https://fi.wikipedia.org/wiki/Kauppis-Heikki
+description: ''
+gutenberg_issued: '2024-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73299'
+language: fi
+pgterms:marc905: 20171130050304kauppishei
+pgterms:marc906: '1897'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWerner Söderström, $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tarinoita ja tapahtumia
+url: http://www.gutenberg.org/ebooks/73299
